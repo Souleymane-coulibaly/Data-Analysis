@@ -110,7 +110,7 @@
       "metadata": {
         "id": "Ah9GYa-gu1CE"
       },
-      "execution_count": null,
+      
       "outputs": []
     },
     {
@@ -126,7 +126,7 @@
         "id": "ySO7y7mFu8DH",
         "outputId": "2ed984a0-d1d5-4f1c-b995-346a6c6697cf"
       },
-      "execution_count": null,
+      
       "outputs": [
         {
           "output_type": "execute_result",
