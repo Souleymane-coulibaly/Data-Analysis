@@ -72,7 +72,7 @@
         "id": "1G11i_s9utF8",
         "outputId": "d1282e8e-e43b-463d-dd9b-ee5fe8f2272e"
       },
-      "execution_count": null,
+      
       "outputs": [
         {
           "output_type": "display_data",
