@@ -5,8 +5,8 @@
     "colab": {
       "name": "LinearRegression.ipynb",
       "provenance": [],
-      "authorship_tag": "ABX9TyOMxZsQ1riHAwAeIEo44eHl",
-      "include_colab_link": true
+      "authorship_tag": "ABX9TyOMxZsQ1riHAwAeIEo44eHl"
+ 
     },
     "kernelspec": {
       "name": "python3",
